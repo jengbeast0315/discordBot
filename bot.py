@@ -15,7 +15,7 @@ async def on_ready():
     print(f"✅ Logged in as {bot.user}")
 
 @bot.command()
-async def racist(ctx)
+async def racist(ctx):
     await ctx.send("niggers")
 
 # Run the bot
